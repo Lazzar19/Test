@@ -8,3 +8,7 @@ void foo() {
     std::cout << "Hello, World!\n";
 
 }
+
+void majmun(){
+    return 1;
+}
