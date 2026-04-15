@@ -12,3 +12,7 @@ void foo() {
 void majmun(){
     std::cout << "kurac";
 }
+
+void mamjuncina() {
+    std::cout << "mamjuncina\n";
+}
