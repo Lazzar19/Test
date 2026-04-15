@@ -10,5 +10,5 @@ void foo() {
 }
 
 void majmun(){
-    return 1;
+    std::cout << "kurac";
 }
